@@ -12,7 +12,7 @@ h1 {
 export default function Character({ name, gender, dob, height }) {
     return (
     <StyledChar>
-        <button>Show Details</button>
+
     </StyledChar>
     )
 }
